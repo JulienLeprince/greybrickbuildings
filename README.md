@@ -34,9 +34,10 @@ abstract = {To reach the carbon emission reduction targets set by the European U
 ```
 fiftyshadesofgrey
 └─ data
-|   ├─ foward_selection_paths           <- selected path of final identified models
+|   ├─ forward_selection_paths          <- selected path of final identified models
 |   ├─ nCPBES                           <- calculated nCPBES of final identified models
 |   └─ RCmodels                         <- fitted models with calibrated parameters
+├─ figures                              <- obtained figures from data files
 └─ README.md                            <- README for developers using this code
 ```
 
