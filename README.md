@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JulienLeprince/greybrickbuildings/figures/greybricks_visio.pdf" alt="Grey-Brick Buildings"/>
+  <img src="https://github.com/JulienLeprince/greybrickbuildings/blob/main/figures/greybricks_visio.pdf" alt="Grey-Brick Buildings"/>
 </p>
 
 # Grey-brick buildings
