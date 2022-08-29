@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/JulienLeprince/greybrickbuildings/blob/main/figures/greybricks_visio.pdf" alt="Grey-Brick Buildings"/>
-</p>
+![GreyBrickBuildings](figures/greybricks_visio.pdf)
 
 # Grey-brick buildings
 
