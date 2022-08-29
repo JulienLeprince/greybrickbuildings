@@ -1,4 +1,4 @@
-![GreyBrickBuildings](figures/greybricks_visio.pdf)
+![GreyBrickBuildings](figures/greybricks_visio.png)
 
 # Grey-brick buildings
 
