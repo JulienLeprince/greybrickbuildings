@@ -12,7 +12,7 @@ Please update this list if you use Grey-birck buildings in your work. Naming con
 - (publication here)
 
 
-### Citation
+## Citation
 If you find this dataset useful and use it in your work, please reference our article:
 
 [Leprince, J., Miller, C., Madsen, H., Basu, K., Van der Clist, R., and Zeiler, W., 2022. Grey-brick buildings, an open data set of calibrated RC models of Dutch residential building heat dynamics. Energy and Buildings, p.112095.](https://doi.org/10.1016/j.enbuild.2022.112095)
@@ -20,6 +20,16 @@ If you find this dataset useful and use it in your work, please reference our ar
 ```
 
 ```
+
+### Authors
+
+[Julien Leprince](https://github.com/JulienLeprince),
+Prof. [Clayton Miller](https://github.com/cmiller8),
+Prof. [Henrik Madsen](https://henrikmadsen.org/),
+Dr. [Kaustav Basu](https://www.linkedin.com/in/kaustav-basu-phd-5973311b/),
+[Rik van der Vlist](https://www.linkedin.com/in/rik-van-der-vlist-124b62138/),
+Prof. [Wim Zeiler](https://www.tue.nl/en/research/researchers/wim-zeiler/).
+
 
 ## Repository structure
 ```
@@ -32,16 +42,6 @@ fiftyshadesofgrey
 ├─ figures                              <- obtained figures from data files
 └─ README.md                            <- README for developers using this code
 ```
-
-## Authors
-
-[Julien Leprince](https://github.com/JulienLeprince),
-Prof. [Clayton Miller](https://github.com/cmiller8),
-Prof. [Henrik Madsen](https://henrikmadsen.org/),
-Dr. [Kaustav Basu](https://www.linkedin.com/in/kaustav-basu-phd-5973311b/),
-[Rik van der Vlist](https://www.linkedin.com/in/rik-van-der-vlist-124b62138/),
-Prof. [Wim Zeiler](https://www.tue.nl/en/research/researchers/wim-zeiler/).
-
 
 ## License
 
