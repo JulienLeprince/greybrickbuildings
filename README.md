@@ -15,10 +15,17 @@ Please update this list if you use Grey-birck buildings in your work. Naming con
 ## Citation
 If you find this dataset useful and use it in your work, please reference our article:
 
-[Leprince, J., Miller, C., Madsen, H., Basu, K., Van der Clist, R., and Zeiler, W., 2022. Grey-brick buildings, an open data set of calibrated RC models of Dutch residential building heat dynamics. Energy and Buildings, p.112095.](https://doi.org/10.1016/j.enbuild.2022.112095)
+[Leprince, J., Miller, C., Madsen, H., Basu, K., Van der Vlist, R., and Zeiler, W., 2022. Grey-brick buildings, an open data set of calibrated RC models of Dutch residential building heat dynamics.](https://dl.acm.org/doi/abs/10.1145/3560905.3567760)
 
 ```
-
+BibTex:
+@inproceedings{leprince2022grey,
+  title={Grey-Brick Buildings, an Open Data Set of Calibrated RC Models of Dutch Residential Building Heat Dynamics},
+  author={Leprince, Julien and Miller, Clayton and Madsen, Henrik and Basu, Kaustav and van der Vlist, Rik and Zeiler, Wim},
+  booktitle={Proceedings of the Twentieth ACM Conference on Embedded Networked Sensor Systems},
+  pages={1067--1071},
+  year={2022}
+}
 ```
 
 ### Authors
